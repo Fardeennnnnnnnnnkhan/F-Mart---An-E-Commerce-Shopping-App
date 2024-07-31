@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@media  screen and (max-width: 600px) {
+    .navbar{
+    padding: none;
+    }
+    .navbar h1{
+        font-size: 6vw;
+    }
+    .navbar img{
+     width : 12vw;
+     height: 12vw;
+    }
+    .middle h1{
+        font-size: 4vw;
+    }
+}
+

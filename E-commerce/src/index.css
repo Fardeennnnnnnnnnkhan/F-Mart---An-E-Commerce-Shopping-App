@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  Helvetica, sans-serif;
+}
+.homebtn:hover .hoverdiv{
+    left:0;
+    border: none;
+    z-index: -1;
+    
+}

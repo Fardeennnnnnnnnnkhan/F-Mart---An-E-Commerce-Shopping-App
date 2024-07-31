@@ -1,0 +1,14 @@
+@media  screen and (max-width: 600px) {
+   .sidebar{
+    background-color: black;
+    flex-direction: row ;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: auto;
+    justify-content: center;
+    margin: 0px 4px;
+   }
+   .addproduct {
+    margin: 0px 0px;
+   }
+}
